@@ -11,7 +11,7 @@ parent['bg']='Black'
 parent.title("Password Generator ")
 
 #setting label font size and bold
-other_label=Label(parent,bg='orangered', text="---Welcome to password Generator---", font=('Arial Bold',25))
+other_label=Label(parent,bg='orangered', text="---Welcome to password Generator--", font=('Arial Bold',25))
 other_label.grid(column=0, row=0,pady=40,padx=20)
 #pady=space in y axis
 print("\n")
